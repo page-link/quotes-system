@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/quotes-system/static/js/main.22f1845b.chunk.js",
-    "main.js.map": "/quotes-system/static/js/main.22f1845b.chunk.js.map",
+    "main.js": "/quotes-system/static/js/main.5269ba8a.chunk.js",
+    "main.js.map": "/quotes-system/static/js/main.5269ba8a.chunk.js.map",
     "runtime-main.js": "/quotes-system/static/js/runtime-main.df2d8bc9.js",
     "runtime-main.js.map": "/quotes-system/static/js/runtime-main.df2d8bc9.js.map",
-    "static/js/2.9e58a1b0.chunk.js": "/quotes-system/static/js/2.9e58a1b0.chunk.js",
-    "static/js/2.9e58a1b0.chunk.js.map": "/quotes-system/static/js/2.9e58a1b0.chunk.js.map",
+    "static/js/2.8b184792.chunk.js": "/quotes-system/static/js/2.8b184792.chunk.js",
+    "static/js/2.8b184792.chunk.js.map": "/quotes-system/static/js/2.8b184792.chunk.js.map",
     "index.html": "/quotes-system/index.html",
-    "static/js/2.9e58a1b0.chunk.js.LICENSE.txt": "/quotes-system/static/js/2.9e58a1b0.chunk.js.LICENSE.txt",
-    "static/media/avatar-default.e7ba15d6.svg": "/quotes-system/static/media/avatar-default.e7ba15d6.svg"
+    "static/js/2.8b184792.chunk.js.LICENSE.txt": "/quotes-system/static/js/2.8b184792.chunk.js.LICENSE.txt",
+    "static/media/avatar-default.5038cd39.svg": "/quotes-system/static/media/avatar-default.5038cd39.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.df2d8bc9.js",
-    "static/js/2.9e58a1b0.chunk.js",
-    "static/js/main.22f1845b.chunk.js"
+    "static/js/2.8b184792.chunk.js",
+    "static/js/main.5269ba8a.chunk.js"
   ]
 }
